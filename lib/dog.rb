@@ -1,6 +1,6 @@
 class Dog
 
-  attr_accessor :
+  attr_accessor 
 
   @@all = []
 
@@ -10,7 +10,7 @@ class Dog
   def all
   end
 
-  def clear_all 
+  def clear_all
   end
 
 end
