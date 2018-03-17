@@ -7,10 +7,10 @@ class Dog
   def initialize()
   end
 
-  def all
+  def self.all
   end
 
-  def clear_all
+  def self.clear_all
   end
 
 end
